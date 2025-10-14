@@ -1,0 +1,2 @@
+agent-framework==1.0.0b251007
+python-dotenv==1.1.1
